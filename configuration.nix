@@ -90,6 +90,7 @@
 				neovim
 				libgcc
 				git
+				exercism
 		];
 	};
 
